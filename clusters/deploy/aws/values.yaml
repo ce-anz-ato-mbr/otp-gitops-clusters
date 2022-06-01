@@ -26,9 +26,9 @@ masters:
 
 workers:
   count: 7
-#  diskIops: 4000
-#  diskSize: 100
-#  diskType: io1
+  diskIops: 4000
+  diskSize: 100
+  diskType: io1
   machineType: c3.4xlarge
 
 network:
